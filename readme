@@ -1,0 +1,10 @@
+# Evaluación final Módulo 2
+
+Este proyecto se enmarca en la evaluación final del módulo dos dedicado a SQL.
+Se nos proporcionó la base de datos Sakila, que contiene información relativa a una tienda de alquiler de películas.
+En total contiene 16 tablas con información sobre las películas, los actores, las categorías, el 
+inventario, los alquileres, pagos, tiendas, personal y clientes. El resto de tablas no están relacionadas con esta 
+información.
+
+El proyecto consiste en realizar los ejercicios propuestos en la evaluación del módulo 2 de ADALAB, donde se cubrirán
+diferentes aspectos de las consultas de SQL. 
